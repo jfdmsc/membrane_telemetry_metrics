@@ -2,7 +2,7 @@ defmodule Membrane.TelemetryMetrics.Mixfile do
   use Mix.Project
 
   @version "0.1.0"
-  @github_url "https://github.com/membraneframework/membrane_telemetry_metrics"
+  @github_url "https://github.com/jfdmsc/membrane_telemetry_metrics"
 
   def project do
     [
